@@ -1,0 +1,1 @@
+# vite-react-aws-test-1
